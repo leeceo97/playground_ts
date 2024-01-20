@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.11.5"
+    "@types/node": "^20.11.5",
+    "undici-types": "^6.4.0"
   }
 }
