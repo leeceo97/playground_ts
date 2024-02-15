@@ -4,7 +4,8 @@
       "module": "ESNext",
       "outDir": "dist",
       "strict": true,
-      "moduleDetection": "force"
+      "moduleDetection": "force",
+      "strictNullChecks": false // 기본 타입들에 null을 허용할때 사용
     },
     "include": ["src"],
   }

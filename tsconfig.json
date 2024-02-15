@@ -4,7 +4,7 @@
     "module": "ESNext",
     "outDir": "dist", // 컴파일 결과 js 파일 생성 위치 지정
     "strict": false, // 엄격한 타입 검사 의미
-    "moduleDetection": "force"
+    "moduleDetection": "force" // 모든파일 독립 모듈 취급
   },
   "include": ["src"] // 컴파일할 대상 파일들 위치
 }
