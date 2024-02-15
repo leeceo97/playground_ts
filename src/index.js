@@ -1,1 +1,2 @@
-var func = function () { return console.log("Hello"); };
+console.log("Hello TypeScript");
+var a = 1;
